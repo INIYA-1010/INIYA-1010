@@ -16,10 +16,10 @@ module AboutMe (
 );
 
   // Personal Info
-  parameter NAME       = "Iniyavan S";
+  parameter NAME       = "INIYAVAN S";
   parameter LOCATION   = "Namakkal, Tamil Nadu, India";
-  parameter DEGREE     = "B.E Electronics Engg (VLSI Design & Technology)";
-  parameter UNIVERSITY = "K.S. Rangasamy College of Technology";
+  parameter DEGREE     = "B.E Electronics Engineering (VLSI Design & Technology)";
+  parameter UNIVERSITY = "K.S.Rangasamy College of Technology";
 
   // Technical Stack
   reg [7:0] stack [] = {
