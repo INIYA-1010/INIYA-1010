@@ -23,7 +23,7 @@ module about_me (
 );
 
   // Personal Info
-  localparam NAME      = "Iniyavan S";
+  localparam NAME      = "INIYAVAN S";
   localparam LOCATION  = "Namakkal, Tamil Nadu, India";
   localparam DEGREE    = "B.E Electronics Engg (VLSI Design & Technology)";
   localparam COLLEGE   = "K.S. Rangasamy College of Technology";
